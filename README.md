@@ -89,7 +89,7 @@ This keeps the internal model easier to query and avoids copying too much of
 FHIR's full structure into the app.
 
 If a Patient or Observation is missing its FHIR id, the command skips it and
-logs a warning. I chose that because the id is what makes the upsert safe. 
+logs a warning. This is because the id makes the upsert safe. 
 
 ## AI use
 
