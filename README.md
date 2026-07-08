@@ -7,7 +7,7 @@ React UI.
 
 The public sandbox is here: https://hapi.fhir.org/baseR4
 
-[`Plan.md`](./Plan.md), is included, which describes the overall flow of this exercise.
+[`Plan.md`](./Plan.md) is included, which describes the overall flow of this exercise.
 
 ## Tech stack
 
